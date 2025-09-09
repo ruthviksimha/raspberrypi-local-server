@@ -43,3 +43,6 @@ This setup is for **local/private use**. For production:
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
+
+![License](https://img.shields.io/badge/license-MIT-green)
+![Repo Size](https://img.shields.io/github/repo-size/ruthviksimha/raspberrypi-local-server)
