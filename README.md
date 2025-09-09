@@ -1,3 +1,7 @@
+
+![License](https://img.shields.io/badge/license-MIT-green)
+![Repo Size](https://img.shields.io/github/repo-size/ruthviksimha/raspberrypi-local-server)
+
 # Raspberry Pi Local Nextcloud Server Setup
 
 This repository contains scripts and documentation to set up a **local Nextcloud server on Raspberry Pi** with **auto-mounting exFAT USB drives** and **hot-swap support**.
@@ -44,5 +48,3 @@ This setup is for **local/private use**. For production:
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Repo Size](https://img.shields.io/github/repo-size/ruthviksimha/raspberrypi-local-server)
