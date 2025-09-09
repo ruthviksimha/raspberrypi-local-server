@@ -144,7 +144,7 @@ This document contains the **full step-by-step guide** for setting up a Raspberr
    ```
 
 2. Create admin:
-   - Username: `rick` (or custom)
+   - Username: `user` (or custom)
    - Password: `password` (or custom)
    - Data folder: `/media/usbdrive`
    - DB user: `ncuser`
